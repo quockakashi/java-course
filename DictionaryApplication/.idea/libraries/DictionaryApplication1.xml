@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DictionaryApplication1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DictionaryApplication.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
